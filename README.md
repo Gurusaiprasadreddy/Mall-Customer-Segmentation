@@ -412,17 +412,11 @@ GitHub
 
 https://github.com/Gurusaiprasadreddy
 
-LinkedIn
 
-(Add Your LinkedIn URL)
 
 ---
 
-# License
 
-This project is released under the MIT License.
-
----
 
 <div align="center">
 
